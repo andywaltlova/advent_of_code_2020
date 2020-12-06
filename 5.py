@@ -27,7 +27,7 @@ def find_seat(seats):
 
 
 if __name__ == "__main__":
-    b_passes = read_input('res\\5.txt')
+    b_passes = read_input('res/5.txt')
 
     test_passes = ['FBFBBFFRLR', 'BFFFBBFRRR', 'FFFBBBFRRR', 'BBFFBBFRLL']
     t_nums = [decode_seat_id(t) for t in test_passes]
