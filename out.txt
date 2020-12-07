@@ -1,0 +1,594 @@
+vibrant salmon: {'vibrant gold bag': 1, 'wavy aqua': 2, 'dotted crimson bag': 1}
+dotted plum: {'wavy cyan': 3}
+muted salmon: {'pale purple': 2, 'dull orange': 3, 'dotted lime': 2, 'clear crimson': 3}
+wavy green: {'plaid crimson bag': 1}
+light salmon: {'posh lime': 3, 'plaid plum bag': 1, 'faded yellow': 3, 'clear fuchsia': 4}
+dim violet: {'drab tan': 4, 'drab violet': 4, 'faded coral': 2, 'dark white': 4}
+dim black: {'posh lime': 4}
+drab indigo: {'light aqua': 4, 'light white': 2, 'clear plum': 4}
+clear purple: {'drab olive': 4, 'vibrant chartreuse': 2}
+wavy indigo: {'clear maroon': 3, 'striped blue': 4, 'wavy gray': 2, 'dim magenta': 2}
+drab olive: {'shiny salmon': 2, 'mirrored white': 4, 'mirrored fuchsia': 4}
+plaid crimson: {'dull chartreuse': 2, 'striped maroon': 4, 'dull crimson': 4, 'plaid red': 4}
+pale lavender: {'dotted tan': 4, 'striped olive': 5}
+vibrant maroon: {'faded plum': 2, 'wavy aqua': 4, 'drab lavender': 5, 'light lavender': 4}
+wavy coral: {'drab purple': 5}
+drab salmon: {'shiny tan': 4, 'shiny white': 2}
+light green: {'dim turquoise': 5, 'striped crimson': 4, 'dim salmon': 5, 'clear gray': 3}
+dark indigo: {'shiny crimson': 5}
+dark blue: {'drab indigo': 3, 'shiny beige': 2, 'shiny coral': 2}
+shiny cyan: {'striped aqua': 2, 'drab turquoise': 2, 'light purple': 5}
+pale cyan: {'muted violet': 2, 'clear beige': 2, 'clear indigo bag': 1, 'striped turquoise': 5}
+muted lime: {'drab silver': 5}
+shiny brown: {'clear purple': 4, 'striped chartreuse': 5, 'pale lavender': 5}
+muted purple: {'dark purple': 4, 'dull crimson': 2}
+plaid turquoise: {'clear gray': 2, 'clear magenta': 4, 'dull bronze': 4}
+clear cyan: {'dotted plum': 3, 'shiny coral': 3}
+shiny violet: {'drab chartreuse': 3, 'pale aqua bag': 1, 'bright aqua': 3}
+wavy tan: {'dark magenta': 5, 'dull beige': 4, 'wavy cyan bag': 1}
+mirrored lime: {'clear plum': 2, 'dark bronze': 3, 'faded turquoise': 5, 'plaid crimson': 5}
+wavy purple: {'dark bronze': 3, 'bright bronze': 2}
+plaid plum: {'muted tan': 5, 'drab teal bag': 1, 'dark purple': 2, 'dotted blue bag': 1}
+dotted cyan: {'vibrant fuchsia': 4, 'muted plum': 3}
+striped white: {'faded salmon': 3, 'plaid cyan': 4, 'wavy gray': 5}
+posh black: {'dotted blue': 2, 'muted crimson': 3}
+dotted bronze: {'posh tan': 2}
+muted gray: {'posh green': 2}
+plaid violet: {'muted orange': 4}
+muted green: {'drab silver': 3, 'mirrored maroon': 2, 'dark teal': 3}
+dotted tan: {'pale black': 3}
+dim beige: {'light plum': 4, 'posh blue': 4, 'dotted purple': 4}
+posh magenta: {'clear purple': 2, 'posh aqua': 4}
+bright coral: {'light bronze': 5, 'vibrant crimson': 2, 'dark gold': 4}
+pale bronze: {'striped orange bag': 1}
+dim lime: {'dim green': 3}
+plaid green: {'faded brown': 2, 'faded bronze': 3, 'pale green': 3, 'plaid magenta': 5}
+vibrant cyan: {'pale black': 5, 'vibrant violet': 5, 'mirrored red bag': 1}
+dotted fuchsia: {'dull crimson': 3, 'wavy silver': 2, 'muted purple': 4}
+dim red: {'clear indigo': 2, 'dotted yellow': 5}
+faded black: {'bright fuchsia': 4}
+faded chartreuse: {'striped orange': 4}
+plaid blue: {'dim gray': 5, 'pale salmon': 2, 'muted orange': 2}
+plaid teal: {'bright lavender': 5}
+drab magenta: {'dim crimson': 2, 'bright fuchsia bag': 1}
+clear violet: {'mirrored white': 3, 'faded lime': 5, 'light olive': 2, 'dotted turquoise bag': 1}
+posh tan: {'posh orange': 3, 'vibrant purple bag': 1, 'posh gray': 4, 'mirrored fuchsia': 2}
+posh red: {'mirrored red': 5}
+striped lavender: {'dotted crimson': 5, 'dotted purple bag': 1}
+dull salmon: {'wavy black bag': 1, 'dull lime': 2, 'bright plum': 3, 'dark gray': 2}
+light tan: {'wavy violet': 3, 'shiny olive bag': 1, 'bright brown': 5}
+pale orange: {'vibrant orange': 5, 'wavy black': 3}
+mirrored green: {'dark tan bag': 1}
+plaid gray: {'muted magenta': 4}
+dim maroon: {'light magenta': 3, 'dull red': 4}
+dull cyan: {'wavy blue bag': 1, 'dark chartreuse bag': 1}
+mirrored blue: {'dark cyan': 4, 'muted magenta': 4, 'striped olive': 2, 'posh gold bag': 1}
+plaid purple: {'shiny orange bag': 1, 'plaid coral': 5, 'dim red': 4, 'faded aqua': 5}
+vibrant magenta: {'posh aqua': 5, 'shiny chartreuse': 5, 'dark teal': 4}
+bright indigo: {'dark bronze bag': 1}
+bright yellow: {'muted lime': 4, 'drab maroon bag': 1}
+clear gold: {'striped blue': 2, 'clear green': 3, 'drab indigo': 4}
+wavy red: {'faded fuchsia': 5, 'mirrored indigo': 5}
+dark coral: {'drab aqua': 3, 'bright fuchsia': 5}
+striped teal: {'clear red bag': 1, 'drab magenta': 3, 'dim green': 4, 'dark fuchsia': 2}
+pale salmon: {'muted gray bag': 1, 'dotted lavender': 4, 'dark maroon': 3, 'plaid plum': 4}
+dull plum: {'dim black': 3, 'shiny aqua': 5, 'pale teal': 3, 'clear purple': 4}
+plaid indigo: {'drab maroon': 4, 'shiny chartreuse': 2, 'shiny yellow': 4, 'pale violet bag': 1}
+shiny orange: {'bright silver': 5, 'light olive': 2, 'light beige': 5}
+dotted salmon: {'posh chartreuse': 4, 'light crimson': 4, 'muted yellow': 5}
+vibrant aqua: {'dull brown': 2}
+shiny bronze: {'mirrored teal bag': 1, 'drab tomato': 2}
+dark black: {'muted red': 5, 'mirrored crimson': 5}
+muted bronze: {'clear tomato': 3, 'vibrant purple bag': 1}
+faded beige: {'shiny blue bag': 1, 'plaid lime': 5}
+pale green: {'pale crimson': 2, 'muted cyan': 4}
+vibrant bronze: {'bright lavender bag': 1}
+posh salmon: {'clear green bag': 1, 'plaid yellow': 2, 'bright orange': 3}
+dull yellow: {'clear plum bag': 1, 'dim bronze': 2}
+mirrored indigo: {'dark tomato': 5, 'pale coral': 5, 'light magenta': 5, 'striped turquoise': 5}
+muted chartreuse: {'dark tan': 3, 'dotted teal': 4}
+drab bronze: {'pale lavender': 3, 'bright salmon bag': 1, 'plaid red': 4}
+dim cyan: {'bright plum bag': 1}
+drab purple: {'dim fuchsia bag': 1, 'mirrored turquoise': 4, 'striped blue': 5}
+pale violet: {'posh brown': 5, 'striped plum': 5, 'dotted indigo bag': 1}
+wavy maroon: {'shiny blue': 3, 'wavy cyan': 3, 'faded purple bag': 1, 'posh lime': 4}
+vibrant coral: {'shiny turquoise': 3, 'mirrored maroon': 4}
+vibrant lavender: {'drab turquoise': 2, 'clear red': 2}
+striped fuchsia: {'dotted tan': 4, 'posh silver': 4, 'clear maroon': 4, 'wavy fuchsia': 5}
+muted lavender: {'pale aqua': 2, 'bright green': 2, 'posh beige': 5}
+posh tomato: {'vibrant bronze': 2, 'light brown': 3, 'posh indigo': 5}
+dull lavender: {'wavy olive': 2}
+mirrored violet: {'wavy violet': 5, 'posh cyan': 2, 'dull olive': 2, 'drab yellow': 3}
+mirrored chartreuse: {'shiny salmon': 2, 'dark purple': 5, 'posh lime': 2}
+dim brown: {'clear red': 4, 'drab blue bag': 1, 'pale silver bag': 1, 'dark gray': 5}
+striped magenta: {'light orange bag': 1, 'muted beige': 4}
+light red: {'shiny yellow': 3, 'faded tan': 3, 'vibrant lime': 3, 'muted coral': 3}
+muted olive: {'drab coral': 4, 'light salmon': 5, 'vibrant violet bag': 1}
+clear silver: {'posh aqua bag': 1, 'drab teal bag': 1, 'dark orange': 4}
+faded orange: {'vibrant purple': 4, 'wavy cyan': 4, 'drab brown bag': 1}
+mirrored crimson: {'light aqua': 5, 'wavy olive bag': 1, 'vibrant lime': 2}
+shiny plum: {'shiny maroon': 2, 'dark red': 3}
+faded green: {'striped turquoise': 3}
+bright orange: {'dull crimson bag': 1, 'pale lavender bag': 1, 'shiny aqua': 5}
+dim gray: {'drab indigo': 2, 'dim turquoise': 5}
+mirrored plum: {'vibrant red bag': 1, 'dotted purple': 4}
+posh gold: {'bright red': 4}
+posh silver: {'drab coral': 3, 'faded tan bag': 1, 'bright silver bag': 1, 'shiny blue bag': 1}
+dull lime: {'muted tan': 5, 'mirrored cyan': 4}
+faded turquoise: {'pale teal': 2, 'bright green': 2}
+bright salmon: {'dim white bag': 1, 'clear tomato': 2, 'bright aqua bag': 1}
+dim gold: {'mirrored turquoise': 3, 'wavy tomato': 5}
+dull fuchsia: {'pale beige': 2, 'dotted yellow bag': 1}
+dark beige: {'pale magenta': 2}
+dotted maroon: {'dark tomato': 2, 'light gray': 2, 'faded teal': 3, 'clear gray bag': 1}
+muted white: {'dull turquoise': 3, 'dark bronze': 5, 'light olive bag': 1, 'clear bronze': 3}
+faded blue: {'dark chartreuse bag': 1, 'pale aqua': 3, 'faded crimson': 5}
+clear aqua: {'vibrant olive': 3, 'clear crimson': 5}
+faded cyan: {'vibrant blue bag': 1, 'light magenta bag': 1}
+shiny aqua: {'clear green bag': 1}
+bright gray: {'dim fuchsia': 2, 'striped chartreuse bag': 1, 'clear aqua': 2, 'dull olive': 2}
+bright white: {'light purple': 2, 'bright aqua': 5}
+bright lime: {'pale orange bag': 1, 'plaid magenta': 5, 'mirrored maroon': 4}
+dark lavender: {'mirrored bronze': 5, 'dotted aqua': 4}
+striped chartreuse: {'striped indigo': 3, 'faded plum': 2, 'clear gray': 4}
+muted magenta: {'clear red': 3, 'dull crimson': 3, 'clear aqua bag': 1, 'faded tomato': 4}
+clear magenta: {'striped cyan': 2, 'vibrant lime': 5, 'striped salmon': 4}
+pale yellow: {'faded fuchsia': 3, 'dotted lime': 2, 'pale gold': 5, 'plaid tomato bag': 1}
+dull teal: {'dim green': 4, 'drab maroon bag': 1, 'dim crimson': 2}
+pale brown: {'drab orange': 5, 'dotted purple': 2, 'plaid olive': 3, 'pale black': 3}
+posh blue: {'faded purple': 4, 'drab turquoise': 4}
+pale olive: {'muted silver': 5, 'mirrored plum': 3, 'vibrant lime': 4, 'striped olive': 5}
+plaid black: {'posh yellow': 3}
+striped tomato: {'faded blue': 4, 'shiny magenta': 2}
+wavy tomato: {'pale gold bag': 1, 'dim magenta': 2}
+faded plum: {'light violet': 3, 'posh beige': 3, 'striped aqua': 3, 'dim magenta': 4}
+vibrant turquoise: {'muted silver': 3, 'dotted black': 5}
+dull white: {'dim gray': 5, 'faded crimson bag': 1}
+faded purple: {'vibrant orange bag': 1, 'pale crimson': 4, 'shiny blue': 5, 'light gold bag': 1}
+clear white: {'striped orange bag': 1, 'pale coral': 3, 'plaid chartreuse': 5}
+striped maroon: {'wavy olive': 2}
+light tomato: {'pale crimson': 2, 'bright fuchsia': 3, 'pale salmon': 2, 'pale olive': 3}
+drab tomato: {'pale olive bag': 1}
+dark aqua: {'shiny magenta bag': 1, 'faded lime': 4, 'faded gold': 4}
+plaid bronze: {'pale purple': 2}
+dark plum: {'wavy brown': 3, 'bright salmon bag': 1}
+dark purple: {'dotted red': 4}
+light teal: {'vibrant indigo bag': 1, 'wavy olive': 5, 'clear maroon': 4, 'light silver bag': 1}
+drab fuchsia: {'faded turquoise': 3, 'dim yellow': 5}
+light turquoise: {'dotted blue bag': 1, 'mirrored tomato': 4}
+clear maroon: {'mirrored green': 4}
+posh maroon: {'dim black': 3, 'bright gold': 3, 'mirrored white': 3, 'clear lavender bag': 1}
+dotted blue: {'wavy maroon': 2}
+bright tan: {'faded turquoise': 4, 'drab coral': 5, 'dull red': 5, 'dim gray': 2}
+dark salmon: {'clear fuchsia': 4, 'mirrored red': 5}
+mirrored fuchsia: {'bright tomato': 4, 'vibrant orange': 3}
+vibrant green: {'clear lavender bag': 1}
+dim white: {'dull red': 5}
+light white: {'dark purple': 3, 'mirrored fuchsia bag': 1, 'plaid gold bag': 1, 'posh lime bag': 1}
+dark turquoise: {'striped green': 3, 'dull gold bag': 1, 'pale gray': 2}
+light purple: {'muted brown': 5, 'muted purple': 5, 'dull yellow': 4, 'vibrant gold': 5}
+posh lavender: {'posh yellow': 5, 'plaid plum': 4, 'dark fuchsia bag': 1, 'bright maroon bag': 1}
+posh crimson: {'vibrant gold bag': 1, 'clear green': 5, 'posh chartreuse': 2}
+wavy lime: {'mirrored beige': 5}
+wavy black: {'plaid orange bag': 1, 'shiny green': 4, 'shiny blue': 3, 'muted red': 4}
+muted red: {'vibrant lime': 4, 'drab black': 2, 'vibrant red': 4, 'faded beige': 5}
+vibrant gold: {'bright silver': 2, 'faded teal': 4, 'vibrant orange': 2, 'striped salmon': 3}
+shiny crimson: {'bright yellow': 2}
+muted turquoise: {'bright plum': 5}
+posh orange: {'vibrant yellow': 4, 'clear crimson': 5}
+wavy aqua: {'shiny green': 5, 'bright fuchsia': 5, 'muted fuchsia': 4}
+clear green: {'dotted plum': 4, 'vibrant olive': 2, 'pale beige': 5}
+pale aqua: {'dark tomato': 3, 'posh lime': 5}
+drab maroon: {'bright magenta': 5, 'bright plum': 2, 'clear green': 5, 'faded tomato': 3}
+vibrant plum: {'light crimson': 3, 'dotted silver': 5, 'mirrored red': 5, 'dotted turquoise bag': 1}
+posh yellow: {'plaid lavender': 5, 'dim tomato': 5}
+faded brown: {'striped orange bag': 1, 'wavy green': 5}
+drab cyan: {'faded teal': 4, 'vibrant aqua': 3, 'light chartreuse': 2, 'dark orange': 3}
+dark lime: {'vibrant blue': 4}
+faded coral: {'wavy green': 4, 'mirrored gold': 4, 'striped fuchsia': 3, 'pale fuchsia bag': 1}
+dark orange: {'dotted red bag': 1, 'vibrant red': 2}
+wavy magenta: {'dull chartreuse': 3, 'dim maroon': 2, 'clear maroon': 2}
+plaid coral: {'drab tan': 4, 'pale tan bag': 1}
+mirrored salmon: {'muted bronze bag': 1, 'muted purple': 5}
+dim tomato: {'drab silver': 2, 'mirrored purple': 4, 'dull olive bag': 1, 'dotted purple': 5}
+wavy gold: {'dark crimson': 3, 'dim white bag': 1}
+light fuchsia: {'mirrored green': 3, 'wavy fuchsia': 2}
+pale tomato: {'clear purple': 4, 'faded brown': 5, 'light coral': 4}
+faded yellow: {'wavy olive': 5, 'pale lavender': 2, 'bright plum': 4}
+light violet: {'dotted red bag': 1, 'dim aqua': 4}
+posh lime: {'pale crimson': 2, 'pale gold bag': 1, 'shiny blue bag': 1, 'muted gray': 4}
+mirrored silver: {'striped bronze': 4, 'faded salmon': 3, 'drab green': 3, 'striped green': 4}
+dark green: {'striped maroon': 5, 'dim olive': 3, 'vibrant chartreuse': 4, 'dim white': 5}
+mirrored olive: {'dotted red': 2, 'dim white': 5}
+dark teal: {'wavy olive': 3, 'pale crimson': 3}
+pale tan: {'dark orange': 2, 'bright plum': 5, 'pale crimson': 4}
+wavy plum: {'dull lime': 3}
+light indigo: {'dark magenta': 5}
+drab lime: {'bright fuchsia bag': 1, 'wavy brown': 4}
+drab tan: {'bright tomato': 3, 'muted green bag': 1}
+vibrant indigo: {'dull chartreuse': 5, 'clear aqua': 5}
+dark bronze: {'dull red': 3, 'mirrored maroon': 3, 'muted green bag': 1}
+shiny red: {'dark bronze': 2, 'faded magenta': 4, 'dull teal': 5}
+shiny black: {'vibrant olive': 3, 'plaid lime': 2, 'shiny gold': 5, 'dotted plum': 2}
+light gold: {'vibrant olive': 5}
+light plum: {'clear gray': 5, 'dotted chartreuse': 5, 'plaid red': 4, 'plaid lime bag': 1}
+bright violet: {'bright maroon': 4, 'posh red': 5, 'faded olive': 2, 'dim gray': 4}
+faded red: {'drab maroon': 4, 'vibrant violet': 4, 'faded purple bag': 1, 'dotted black': 2}
+muted orange: {'plaid chartreuse': 4, 'muted lavender': 5, 'faded purple': 2}
+clear coral: {'drab teal': 2, 'bright turquoise': 5}
+wavy orange: {'muted cyan': 4, 'light indigo': 3, 'bright black': 5, 'light salmon': 5}
+faded fuchsia: {'pale gold': 3, 'faded salmon': 3, 'pale red': 4}
+light brown: {'pale silver': 4, 'clear tan': 4}
+shiny gray: {'muted teal': 3, 'bright purple bag': 1, 'bright olive': 2, 'mirrored green': 4}
+bright brown: {'dark teal': 2, 'light plum': 5, 'plaid olive': 2, 'dark chartreuse': 5}
+mirrored white: {'wavy gray bag': 1, 'bright tomato': 3, 'muted silver bag': 1, 'striped olive': 4}
+pale magenta: {'clear gray bag': 1, 'muted gray bag': 1, 'wavy cyan bag': 1, 'dull brown': 4}
+bright magenta: {'muted tan': 2, 'pale gold bag': 1, 'wavy cyan': 2, 'vibrant orange': 4}
+clear teal: {'dark teal bag': 1, 'vibrant lime': 2}
+light orange: {'light gold': 3, 'clear plum': 4, 'dotted indigo': 4}
+plaid cyan: {'pale magenta bag': 1}
+wavy chartreuse: {'posh green': 2, 'dotted purple': 5, 'dark tomato': 2, 'muted gray': 3}
+light coral: {'clear gray': 5, 'posh purple': 2, 'mirrored violet': 2}
+dull violet: {'dotted blue': 3, 'mirrored tomato': 5, 'dull chartreuse bag': 1, 'posh beige': 2}
+bright tomato: {'vibrant red': 3, 'muted gray': 3}
+mirrored magenta: {'wavy brown': 4}
+muted indigo: {'wavy chartreuse': 4, 'vibrant indigo': 3, 'posh magenta': 2, 'plaid crimson bag': 1}
+bright maroon: {'dull violet': 2, 'faded tan': 2, 'striped gray': 3, 'pale magenta': 5}
+dark tomato: {}
+pale fuchsia: {'drab silver': 3, 'faded purple': 4, 'mirrored cyan': 2, 'dark bronze': 5}
+dull black: {'dull indigo bag': 1, 'wavy brown bag': 1, 'striped gray': 5}
+pale white: {'light gray': 3, 'plaid lavender': 2, 'wavy maroon bag': 1}
+shiny turquoise: {'pale red': 4}
+drab brown: {'mirrored plum': 5, 'dotted red': 4}
+bright green: {'dull lime bag': 1, 'clear lavender': 2}
+wavy blue: {'dotted purple': 4}
+muted aqua: {'faded plum': 5, 'plaid plum': 3, 'dotted tan': 4, 'clear gray bag': 1}
+clear yellow: {'dotted indigo': 4, 'vibrant aqua': 3, 'vibrant orange': 4}
+mirrored gray: {'shiny crimson': 4, 'mirrored coral': 2, 'dotted tan bag': 1, 'posh cyan': 4}
+dark maroon: {'dark salmon bag': 1, 'muted coral': 3}
+posh plum: {'mirrored bronze bag': 1, 'plaid purple': 4, 'vibrant white': 3}
+bright teal: {'pale aqua': 2, 'mirrored black bag': 1}
+wavy teal: {'plaid tan': 5, 'dull black': 3, 'bright teal bag': 1, 'clear teal': 3}
+dotted magenta: {'plaid plum bag': 1, 'plaid salmon': 5, 'light gold': 3}
+faded tomato: {'dark bronze bag': 1, 'faded purple': 2, 'vibrant red': 4, 'pale lavender': 4}
+dull blue: {'dotted bronze': 3, 'shiny olive': 2, 'muted gold': 3}
+posh aqua: {'vibrant orange': 5, 'vibrant olive bag': 1}
+mirrored black: {'dark teal': 3, 'plaid chartreuse': 4, 'light salmon': 2, 'vibrant white': 2}
+wavy violet: {'vibrant indigo': 5}
+vibrant blue: {'shiny olive': 4, 'light olive': 4, 'muted green': 2}
+dotted green: {'shiny violet': 3, 'posh black': 3, 'dark lime': 3}
+wavy cyan: {'muted gray': 2, 'vibrant olive': 3, 'striped olive': 4, 'drab silver': 4}
+faded maroon: {'bright yellow': 5, 'bright tomato': 2, 'mirrored magenta': 5}
+dull olive: {'bright plum bag': 1, 'pale crimson': 2}
+clear lime: {'striped blue': 5, 'wavy blue': 5, 'drab tan': 3, 'shiny olive bag': 1}
+striped yellow: {'mirrored red bag': 1}
+plaid magenta: {'clear yellow': 2, 'pale coral bag': 1, 'muted bronze': 3}
+light lime: {'dim turquoise bag': 1}
+striped brown: {'mirrored brown': 3, 'clear cyan': 4, 'bright white': 5, 'muted maroon bag': 1}
+dotted indigo: {'light olive': 3, 'dull chartreuse bag': 1}
+shiny tan: {'dull lime': 2, 'shiny black': 5, 'dull teal': 5}
+clear olive: {'drab coral': 5, 'striped aqua': 4, 'dotted lavender': 4}
+plaid chartreuse: {'plaid red bag': 1, 'faded tomato': 4}
+dotted olive: {'dull yellow': 2}
+faded lime: {'dotted aqua': 5, 'shiny silver': 4, 'muted white': 4}
+vibrant silver: {'dotted teal': 4, 'posh olive': 3}
+striped beige: {'vibrant white': 2, 'dark gold': 3, 'posh violet': 4, 'bright chartreuse': 4}
+dim plum: {'striped indigo': 2, 'vibrant gold': 2}
+clear crimson: {'vibrant red': 5}
+plaid maroon: {'clear crimson': 4}
+drab coral: {'plaid plum': 2}
+dull bronze: {'pale black': 4, 'dull tan bag': 1, 'dull cyan': 5, 'pale lavender': 4}
+wavy bronze: {'posh coral': 4, 'bright silver': 2}
+dull aqua: {'dotted orange': 3, 'pale teal': 3}
+muted plum: {'light blue bag': 1, 'muted maroon': 2, 'dull olive': 4}
+vibrant tan: {'drab teal': 4}
+dull tomato: {'dull white': 5}
+muted yellow: {'dark yellow': 3, 'faded beige': 5}
+shiny white: {'bright silver': 4}
+muted crimson: {'clear maroon bag': 1}
+muted violet: {'dotted yellow': 3, 'light indigo bag': 1, 'mirrored black': 4, 'drab lime': 5}
+posh white: {'faded brown': 3, 'dull yellow': 2}
+wavy crimson: {'shiny black': 3, 'dotted blue': 2, 'dark maroon': 4}
+clear salmon: {'mirrored magenta bag': 1, 'bright chartreuse': 4, 'vibrant black': 5, 'vibrant chartreuse': 2}
+pale teal: {'mirrored white': 5, 'plaid orange': 2, 'muted lime': 4}
+light aqua: {'shiny salmon': 2, 'dark tomato': 3, 'mirrored purple bag': 1}
+clear beige: {'muted crimson bag': 1}
+vibrant olive: {'dark tomato': 5, 'pale gold bag': 1, 'muted tan': 4}
+plaid brown: {'mirrored lavender': 3, 'muted crimson bag': 1, 'muted green': 3, 'bright lavender bag': 1}
+dim magenta: {'pale fuchsia': 4, 'drab black': 3, 'plaid orange': 4}
+bright purple: {'muted gray': 3, 'pale coral': 3}
+posh indigo: {'bright beige': 2, 'dim tomato': 2}
+drab lavender: {'dotted chartreuse': 2, 'posh green bag': 1, 'light silver': 3, 'dotted black bag': 1}
+pale crimson: {}
+posh gray: {'muted green bag': 1}
+shiny lime: {'mirrored maroon': 3, 'posh crimson bag': 1, 'mirrored orange': 4, 'posh olive': 2}
+muted beige: {'posh tan bag': 1, 'posh olive': 3, 'faded white bag': 1, 'posh green': 2}
+light black: {'striped green': 3, 'pale salmon': 2, 'muted crimson': 3}
+dark gold: {'striped maroon': 5, 'pale fuchsia': 2, 'light gold': 3}
+light bronze: {'clear purple': 2, 'dim crimson': 4}
+muted blue: {'faded gray bag': 1, 'muted salmon': 4, 'dull bronze': 5}
+vibrant orange: {}
+dim lavender: {'vibrant indigo bag': 1}
+posh fuchsia: {'clear fuchsia': 3, 'shiny green': 2, 'plaid plum': 3}
+dim tan: {'pale plum': 5, 'posh gray': 3, 'clear yellow bag': 1}
+pale lime: {}
+striped blue: {'pale black': 5}
+shiny tomato: {'dim fuchsia bag': 1, 'faded blue': 5, 'muted brown': 3, 'mirrored salmon': 3}
+dotted orange: {'bright tomato': 4, 'light silver bag': 1}
+muted tan: {}
+pale black: {'dull brown': 2, 'mirrored chartreuse': 4, 'dim aqua': 2}
+shiny purple: {'dotted indigo': 3, 'vibrant gold': 5, 'light chartreuse': 2, 'clear magenta': 4}
+dull brown: {'bright beige': 2, 'vibrant orange': 4, 'bright tomato': 2, 'clear lavender': 4}
+plaid aqua: {'plaid indigo': 3}
+dark olive: {'pale plum bag': 1, 'dim maroon': 4}
+dark silver: {'shiny blue': 3, 'muted gray': 2, 'drab coral': 4}
+clear turquoise: {'light violet': 5, 'drab yellow': 3}
+wavy brown: {'shiny coral': 3, 'shiny salmon': 3, 'drab magenta bag': 1}
+dim indigo: {'bright green': 5}
+mirrored gold: {'plaid magenta bag': 1, 'plaid gold': 2, 'light turquoise': 4}
+drab red: {'mirrored bronze': 3}
+faded bronze: {'vibrant aqua bag': 1, 'clear tomato': 2, 'dull tan': 2}
+bright lavender: {'drab coral': 4, 'bright green bag': 1}
+wavy lavender: {'wavy green': 2, 'drab silver': 4, 'light turquoise': 5}
+wavy salmon: {'dotted gray': 2, 'bright chartreuse': 4, 'striped gray': 4}
+dotted yellow: {'dark salmon': 4, 'posh tan bag': 1, 'drab tomato': 4, 'vibrant chartreuse': 4}
+dull turquoise: {'drab silver': 5, 'dark orange bag': 1}
+pale gray: {'dull aqua': 4, 'faded gold': 4, 'mirrored orange': 2, 'dim magenta': 2}
+dark red: {'bright gray': 2, 'bright black': 4}
+dim fuchsia: {'bright magenta': 3, 'pale crimson': 5}
+vibrant lime: {'wavy maroon': 2, 'pale magenta': 2, 'pale crimson': 4, 'drab orange': 3}
+bright bronze: {'vibrant black': 4, 'drab fuchsia': 3, 'striped cyan': 3, 'dotted blue': 3}
+muted coral: {'wavy white': 3, 'plaid tan bag': 1}
+wavy white: {'drab maroon': 2}
+pale coral: {'dotted bronze': 3, 'dull gold bag': 1}
+drab white: {'drab silver': 3, 'bright tomato': 3, 'bright silver bag': 1}
+light olive: {'muted tan': 3, 'mirrored tomato': 2}
+mirrored tomato: {'dark tomato': 2, 'shiny gold': 3}
+light crimson: {'clear magenta': 4, 'plaid coral': 2, 'dull chartreuse': 5, 'dark teal': 5}
+bright cyan: {'clear chartreuse bag': 1, 'striped brown bag': 1, 'light tomato': 5, 'dark coral': 4}
+vibrant fuchsia: {'dull white': 3, 'dim purple bag': 1, 'shiny yellow': 5}
+drab gold: {'wavy chartreuse': 5}
+plaid yellow: {'faded plum': 4, 'faded indigo bag': 1, 'drab purple': 2, 'light purple bag': 1}
+bright black: {'clear yellow': 2, 'dotted red bag': 1, 'dim white': 4}
+pale maroon: {'vibrant tomato': 2, 'mirrored tomato': 3}
+wavy gray: {'wavy cyan': 2, 'dark tomato': 2, 'vibrant orange': 4, 'pale silver': 5}
+faded salmon: {'bright plum': 4}
+shiny teal: {'dark magenta': 4}
+dim bronze: {'striped olive': 5, 'dotted plum': 5, 'dark purple': 4}
+dotted lavender: {'striped indigo': 4, 'mirrored red': 2, 'bright chartreuse': 2, 'bright teal': 4}
+plaid beige: {'vibrant green': 4, 'striped violet': 3, 'vibrant blue': 5}
+dull purple: {'dark beige bag': 1, 'drab silver bag': 1, 'faded fuchsia': 4, 'vibrant olive': 2}
+bright olive: {'faded salmon': 3, 'wavy magenta bag': 1, 'dim yellow': 5}
+mirrored maroon: {'bright magenta': 3, 'pale lime': 5, 'striped olive': 3}
+clear brown: {'mirrored orange': 2, 'bright cyan': 5}
+drab teal: {'dull olive': 3}
+clear red: {'bright maroon bag': 1}
+vibrant black: {'pale fuchsia': 4, 'clear lavender': 3, 'shiny blue': 2, 'dotted blue': 3}
+faded white: {'wavy coral': 3, 'faded yellow': 4, 'shiny olive': 5, 'plaid orange bag': 1}
+dotted aqua: {'wavy white bag': 1, 'dotted blue': 3, 'pale lavender': 5, 'clear aqua': 4}
+pale blue: {'dim salmon': 3, 'muted cyan': 3, 'pale fuchsia': 5}
+dim turquoise: {'vibrant chartreuse': 4, 'dark silver': 2, 'pale gold': 3}
+dull magenta: {'muted salmon': 3, 'dotted gray': 4, 'light salmon': 3}
+dotted coral: {'mirrored tomato': 2, 'vibrant teal bag': 1, 'dull crimson': 3}
+dull beige: {'faded fuchsia': 2}
+shiny gold: {'bright beige': 4, 'dull crimson': 3, 'mirrored maroon': 4, 'bright tomato': 3}
+pale indigo: {'dotted teal': 2, 'faded teal': 3, 'wavy indigo': 4}
+shiny magenta: {'bright tomato': 5, 'dull lime': 5, 'mirrored bronze': 5, 'dim black': 2}
+muted cyan: {'dark bronze': 2, 'drab silver': 5, 'dotted chartreuse': 4}
+plaid orange: {'light plum': 4, 'shiny salmon': 5, 'posh beige': 5}
+shiny green: {'dotted tan': 5, 'mirrored olive': 5, 'dark teal bag': 1}
+dull maroon: {'striped black bag': 1, 'clear green': 4}
+drab aqua: {'striped indigo bag': 1, 'vibrant white': 3}
+bright gold: {'mirrored beige': 4, 'mirrored yellow': 4}
+plaid tan: {'shiny aqua': 5}
+striped plum: {'clear magenta': 4, 'dark gold': 2}
+vibrant teal: {'dim aqua bag': 1, 'vibrant violet': 4, 'plaid olive': 3, 'mirrored olive bag': 1}
+posh bronze: {'dark tomato': 5, 'shiny silver': 5}
+dim orange: {'dull salmon': 4}
+striped indigo: {'drab magenta': 4}
+vibrant yellow: {'drab olive': 4, 'wavy olive': 4, 'dark teal': 2, 'faded purple': 2}
+striped purple: {'pale red': 5}
+dim coral: {'plaid maroon bag': 1, 'pale magenta': 2, 'pale indigo bag': 1, 'dotted turquoise': 2}
+muted silver: {'mirrored turquoise': 4}
+posh cyan: {'dotted purple': 3}
+plaid lavender: {'muted gray': 3, 'light plum bag': 1}
+faded tan: {'mirrored cyan bag': 1, 'plaid crimson': 2, 'mirrored maroon': 5}
+clear lavender: {'pale gold': 4, 'posh lime bag': 1, 'pale crimson': 4}
+dull gray: {'shiny crimson': 5, 'wavy cyan': 5, 'posh lavender': 3}
+dull green: {'faded bronze bag': 1, 'vibrant indigo': 3, 'muted fuchsia': 2, 'dotted silver': 4}
+dark magenta: {'wavy white': 3, 'plaid plum': 3, 'wavy lavender': 4, 'drab magenta': 3}
+plaid red: {'bright turquoise bag': 1}
+dull coral: {'clear tomato': 4}
+posh turquoise: {'dull gold': 5, 'mirrored chartreuse': 4}
+drab crimson: {'dull tomato': 2, 'posh orange': 5, 'shiny violet': 5}
+clear tan: {'pale fuchsia bag': 1, 'light aqua': 4, 'shiny blue': 3, 'bright turquoise': 3}
+dotted brown: {'drab magenta': 4, 'plaid crimson': 5, 'posh beige': 2}
+light silver: {'mirrored green': 3, 'mirrored maroon': 5, 'shiny blue': 5}
+dotted gold: {'dim magenta': 2}
+drab yellow: {'pale purple': 5}
+faded lavender: {'muted cyan': 5}
+vibrant beige: {'clear turquoise': 4, 'dark fuchsia': 2, 'pale gray bag': 1, 'dim beige': 5}
+clear fuchsia: {'pale fuchsia bag': 1, 'wavy turquoise bag': 1, 'faded gray': 5}
+shiny chartreuse: {'vibrant green': 4, 'dotted teal bag': 1}
+dim purple: {'bright turquoise bag': 1}
+clear indigo: {'light white': 4, 'vibrant orange': 3}
+wavy turquoise: {'bright magenta': 5}
+vibrant chartreuse: {'mirrored chartreuse': 4, 'muted tan': 2, 'plaid lime': 2, 'striped olive': 3}
+dark chartreuse: {'shiny blue': 5}
+clear plum: {'pale lime': 3}
+dotted tomato: {'bright red': 5, 'bright olive': 2, 'drab silver': 5, 'clear magenta': 4}
+mirrored beige: {'light violet': 4, 'mirrored salmon': 5, 'dim yellow': 4, 'bright yellow': 5}
+posh teal: {'plaid turquoise': 2, 'pale salmon': 3, 'striped plum bag': 1}
+dull chartreuse: {'pale lavender': 5, 'bright turquoise bag': 1, 'pale beige': 3}
+mirrored lavender: {'vibrant tomato': 4, 'plaid tan': 2, 'bright magenta': 5}
+dark gray: {'wavy turquoise': 5, 'wavy gray': 4, 'dark bronze': 4, 'pale aqua': 4}
+dark white: {'clear maroon': 4, 'vibrant olive': 2, 'dull lime bag': 1, 'faded lime bag': 1}
+dull indigo: {'clear fuchsia': 4, 'dotted tan': 3, 'plaid cyan bag': 1}
+striped tan: {'pale brown': 3}
+dull gold: {'dark yellow': 2, 'dull olive': 3}
+light lavender: {'plaid red': 2, 'dotted purple': 5, 'bright beige bag': 1, 'pale beige': 3}
+faded teal: {'mirrored olive': 4}
+plaid salmon: {'dark bronze bag': 1, 'pale yellow': 5, 'striped cyan bag': 1, 'muted cyan': 2}
+dotted purple: {'bright turquoise bag': 1, 'posh green bag': 1}
+dull silver: {'striped salmon': 3, 'posh violet': 4, 'striped orange': 4}
+drab chartreuse: {'pale lavender': 4}
+striped coral: {'bright gray': 5, 'dark teal': 4, 'dotted purple': 5}
+wavy olive: {}
+plaid olive: {'pale black bag': 1, 'clear plum': 3}
+drab black: {'striped olive': 3, 'mirrored chartreuse': 2, 'pale silver': 5}
+striped lime: {'dark chartreuse': 3, 'pale silver': 5, 'plaid crimson': 2, 'clear fuchsia': 4}
+drab beige: {'dim black': 4, 'striped black': 4, 'dull crimson': 4, 'dark gray': 5}
+muted tomato: {'light bronze': 3, 'pale salmon': 3, 'vibrant chartreuse': 2}
+bright fuchsia: {'drab orange': 5, 'pale black': 3, 'mirrored white': 3, 'faded tomato': 5}
+vibrant gray: {'posh lime': 4, 'dark purple': 2, 'clear aqua': 4}
+shiny yellow: {'bright beige': 5, 'vibrant red': 2, 'dim yellow': 5, 'vibrant yellow': 2}
+posh coral: {'drab indigo': 5}
+muted fuchsia: {'shiny silver': 5, 'dotted salmon': 2, 'muted tan bag': 1}
+muted brown: {'clear maroon': 4, 'dim purple': 5, 'wavy maroon': 4, 'muted red': 2}
+posh chartreuse: {'muted tan': 5, 'drab teal': 3}
+vibrant brown: {'wavy bronze bag': 1, 'bright red': 5, 'muted fuchsia': 4, 'clear fuchsia': 4}
+posh purple: {'drab turquoise': 2, 'striped blue': 5, 'muted cyan bag': 1}
+plaid lime: {'muted gray': 3, 'vibrant red': 5, 'wavy gray bag': 1, 'pale silver bag': 1}
+posh violet: {'faded crimson': 2, 'shiny olive bag': 1, 'bright magenta': 3, 'drab silver bag': 1}
+striped gold: {'faded salmon': 5, 'drab bronze': 2, 'dark plum': 2}
+striped gray: {'mirrored crimson': 2, 'faded beige': 5, 'dull red bag': 1}
+dim blue: {'dark coral': 2, 'dim yellow': 3, 'dull salmon bag': 1}
+bright silver: {'mirrored tomato': 2, 'bright plum': 3, 'pale lavender': 4, 'clear tomato bag': 1}
+striped red: {'light yellow': 4, 'mirrored white': 5, 'plaid gold': 5}
+shiny maroon: {'wavy cyan': 3, 'mirrored tomato bag': 1, 'mirrored coral bag': 1}
+mirrored brown: {'mirrored olive': 2, 'mirrored green': 3, 'dim tomato bag': 1}
+striped olive: {}
+striped violet: {'bright tomato': 5}
+mirrored aqua: {'dark gray': 4, 'shiny blue': 5, 'pale silver': 2}
+plaid white: {'dim maroon': 3, 'dim tan': 2}
+drab orange: {'striped olive': 5}
+dark brown: {'mirrored bronze': 2, 'clear maroon': 5, 'dull lime': 2}
+dotted silver: {'dark gold bag': 1, 'drab black bag': 1, 'pale aqua': 3}
+pale plum: {'striped maroon': 5, 'dotted purple': 5, 'shiny magenta': 4}
+faded indigo: {'posh cyan bag': 1, 'bright green': 5}
+mirrored teal: {'muted indigo': 3, 'clear fuchsia': 4, 'vibrant teal': 4, 'drab violet': 5}
+shiny lavender: {'striped beige': 5, 'dull magenta': 2, 'clear tan': 4}
+pale beige: {'mirrored maroon': 5}
+striped bronze: {'pale orange bag': 1, 'shiny cyan': 5, 'plaid purple': 5, 'vibrant chartreuse bag': 1}
+faded gold: {'pale brown': 3, 'dull violet': 2, 'clear maroon': 2, 'dull lime': 4}
+clear tomato: {'vibrant orange': 4, 'bright tomato': 3, 'wavy chartreuse': 3, 'wavy olive': 5}
+pale red: {'wavy blue': 5, 'dark purple': 5, 'bright tomato bag': 1, 'dark tan': 4}
+vibrant red: {'wavy gray': 5, 'dark tomato': 5}
+dim salmon: {'faded crimson': 2}
+shiny blue: {'muted tan': 4, 'vibrant orange': 2}
+vibrant white: {'mirrored cyan': 3}
+dark violet: {'vibrant blue': 5, 'wavy tomato': 3}
+pale gold: {}
+dim silver: {'drab tan': 4, 'pale silver': 4, 'clear bronze': 5, 'drab maroon': 4}
+drab blue: {'vibrant indigo': 5, 'muted turquoise': 3}
+drab plum: {'dim turquoise': 2, 'drab violet': 2, 'light gray bag': 1, 'clear tan': 3}
+bright plum: {'wavy olive': 3}
+dark fuchsia: {'dotted indigo': 4, 'dark brown': 3, 'clear white bag': 1}
+bright turquoise: {'posh lime bag': 1, 'wavy olive': 2, 'pale crimson bag': 1}
+dotted turquoise: {'faded plum': 3, 'bright tomato bag': 1}
+shiny indigo: {'wavy chartreuse bag': 1}
+dark yellow: {'light gold': 2}
+posh olive: {'shiny indigo': 2}
+light chartreuse: {'drab turquoise': 5, 'faded purple': 2, 'faded gray': 3}
+vibrant tomato: {'light olive': 3, 'shiny purple': 4}
+posh brown: {'shiny green': 4, 'pale purple bag': 1}
+bright chartreuse: {'light gold': 3}
+dotted lime: {'wavy cyan': 5}
+drab violet: {'dark beige': 4, 'plaid gold bag': 1, 'faded beige': 3}
+drab green: {'dotted bronze': 4, 'clear silver': 5, 'faded salmon': 4}
+wavy beige: {'clear cyan': 2, 'dim tomato': 2}
+wavy yellow: {'pale green': 4, 'mirrored green': 3, 'faded brown': 5, 'clear orange bag': 1}
+plaid tomato: {'dull yellow': 3, 'faded blue': 2, 'dull teal bag': 1}
+dull red: {'posh green': 4, 'shiny salmon bag': 1, 'bright tomato': 2, 'vibrant red': 4}
+striped salmon: {'dim bronze': 4, 'light gold': 4, 'posh beige': 3}
+dim crimson: {'dull crimson bag': 1, 'drab silver': 4}
+plaid silver: {'dull black': 3, 'shiny silver': 5, 'dark beige': 4, 'clear aqua': 2}
+clear bronze: {'drab coral bag': 1, 'vibrant red': 2}
+dotted gray: {'plaid plum bag': 1, 'dotted purple': 2, 'striped violet': 5, 'bright tomato': 3}
+striped silver: {'plaid coral': 2, 'bright orange': 5, 'pale brown bag': 1}
+shiny beige: {'dim turquoise': 4}
+posh green: {}
+plaid gold: {'pale fuchsia': 3, 'dull lime': 5, 'wavy chartreuse': 5, 'dim tomato': 5}
+dim teal: {'pale beige': 5, 'faded blue': 2, 'dotted tan': 5, 'vibrant tomato': 5}
+bright red: {'drab lavender': 4, 'dark purple bag': 1, 'wavy violet': 2}
+dotted teal: {'dull crimson': 5}
+faded gray: {'mirrored red': 4}
+pale purple: {'faded gray': 3, 'clear gold bag': 1, 'clear cyan': 4}
+striped crimson: {'dim aqua': 4, 'pale magenta': 3, 'drab white bag': 1, 'vibrant purple bag': 1}
+mirrored purple: {'muted gray': 3}
+muted maroon: {'plaid crimson': 3, 'posh aqua': 4}
+muted gold: {'pale fuchsia': 3, 'dotted teal': 2, 'dotted chartreuse': 3, 'vibrant lime': 4}
+wavy silver: {'plaid beige': 2, 'dull aqua': 3, 'pale lavender': 2}
+dim aqua: {'bright beige': 5}
+dark tan: {'pale gold': 4}
+light yellow: {'dotted gray': 4, 'pale teal': 5}
+bright blue: {'shiny coral': 3, 'striped salmon': 4}
+striped cyan: {'light turquoise': 5}
+light gray: {'vibrant teal': 4, 'shiny turquoise bag': 1, 'wavy olive bag': 1, 'dim white': 5}
+light cyan: {'dark gray': 3, 'clear lavender': 5, 'dark beige': 4}
+light blue: {'dim black': 5, 'drab tomato': 4, 'dim turquoise': 2}
+dull crimson: {'pale silver': 3, 'faded beige': 2}
+dotted beige: {'dotted aqua': 2}
+shiny olive: {'bright plum': 4, 'clear plum': 4, 'wavy green': 2, 'faded tomato': 5}
+striped turquoise: {'drab black bag': 1}
+pale chartreuse: {'dotted brown': 5}
+mirrored turquoise: {'shiny gold': 4, 'dark chartreuse': 3}
+posh beige: {'dotted tan': 3}
+drab gray: {'vibrant aqua': 3}
+shiny silver: {'plaid gold': 4, 'shiny green': 5}
+bright crimson: {'faded yellow': 5, 'bright plum': 4, 'mirrored gold': 4}
+dim yellow: {'plaid lime': 2, 'bright salmon': 5, 'mirrored bronze': 4}
+dark crimson: {'dull blue': 4, 'light olive': 2, 'mirrored green': 4}
+faded aqua: {'dotted chartreuse bag': 1, 'muted orange bag': 1}
+pale turquoise: {'dull silver': 4}
+clear orange: {'pale gray bag': 1, 'striped bronze': 5, 'dim aqua': 5}
+mirrored red: {'muted purple bag': 1}
+drab silver: {}
+faded silver: {'mirrored turquoise': 5, 'striped purple': 4}
+wavy fuchsia: {'faded purple': 2, 'wavy cyan bag': 1, 'muted cyan': 2}
+clear black: {'drab turquoise': 4, 'plaid lime bag': 1}
+dim olive: {'bright chartreuse': 5, 'striped silver': 3}
+mirrored tan: {'striped indigo': 2, 'wavy gray': 3, 'clear tan': 3}
+mirrored yellow: {'plaid plum': 2, 'striped salmon': 3, 'dim maroon': 4}
+shiny salmon: {'dotted plum': 5, 'pale crimson': 5}
+dotted crimson: {'dull yellow': 3}
+shiny fuchsia: {'plaid lime': 5}
+drab turquoise: {'dull crimson': 2}
+mirrored cyan: {'posh green': 3, 'striped olive': 5, 'vibrant red': 5}
+faded crimson: {'muted silver': 3, 'shiny olive': 4}
+light magenta: {'posh crimson': 3, 'pale purple': 5}
+faded violet: {'vibrant lime': 3, 'dim magenta bag': 1, 'dull lime bag': 1}
+dotted black: {'light gold': 2, 'dim bronze': 2, 'wavy turquoise': 4}
+bright beige: {'vibrant orange': 4, 'dark chartreuse': 4, 'muted gray bag': 1, 'bright tomato': 2}
+striped green: {'pale beige': 3, 'pale brown bag': 1, 'posh brown': 2, 'striped olive': 5}
+dotted red: {'vibrant orange': 4, 'pale gold': 2}
+plaid fuchsia: {'pale teal': 5, 'pale fuchsia': 5, 'faded gray': 4}
+light beige: {'muted red bag': 1, 'dotted purple': 5, 'striped salmon': 3}
+dim chartreuse: {'muted maroon': 5, 'wavy maroon': 4}
+clear chartreuse: {'striped lavender': 3, 'clear blue': 2}
+pale silver: {'dark teal': 2}
+faded olive: {'dotted turquoise': 4, 'drab indigo': 4, 'drab violet': 5, 'shiny blue': 3}
+clear blue: {'muted black bag': 1}
+dull tan: {'clear crimson': 5, 'dim tomato': 3}
+dark cyan: {'wavy magenta': 4, 'vibrant olive': 5, 'posh gray': 2, 'dull magenta': 5}
+dotted white: {'bright magenta bag': 1, 'pale red': 3}
+muted teal: {'posh fuchsia': 5, 'drab turquoise': 4, 'posh red': 4}
+mirrored coral: {'faded purple bag': 1, 'bright magenta': 2, 'dark yellow': 5, 'light plum': 3}
+dull orange: {'dotted blue': 4, 'clear gray': 5, 'vibrant red': 3}
+bright aqua: {'muted lime': 4, 'wavy plum': 2, 'shiny olive bag': 1}
+light maroon: {'shiny gold bag': 1, 'light beige': 4, 'drab black bag': 1}
+dim green: {'dull brown': 4}
+striped black: {'dotted crimson': 4}
+mirrored bronze: {'mirrored chartreuse': 4, 'dull lime': 3, 'wavy turquoise': 3}
+striped aqua: {'dark gray': 4, 'faded beige': 5, 'dull lime': 2}
+shiny coral: {'mirrored white': 5, 'shiny blue': 5}
+striped orange: {'pale silver': 4, 'pale olive': 4, 'shiny olive': 4, 'bright chartreuse': 2}
+vibrant crimson: {'shiny olive': 5, 'striped violet': 5, 'posh beige': 2}
+dotted chartreuse: {'bright turquoise': 5, 'bright magenta': 5}
+vibrant purple: {'posh violet': 4}
+vibrant violet: {'posh aqua': 5, 'mirrored white': 4, 'dotted tan': 4, 'mirrored purple': 4}
+dotted violet: {'bright brown': 3, 'pale yellow': 3, 'light gray': 4, 'dark green': 5}
+muted black: {'light violet': 2, 'muted bronze': 5}
+mirrored orange: {'plaid magenta bag': 1, 'muted red': 5, 'pale lime': 3}
+faded magenta: {'striped cyan': 3, 'muted silver': 4}
+clear gray: {'muted gray': 4, 'wavy turquoise': 2, 'dotted plum': 3}
