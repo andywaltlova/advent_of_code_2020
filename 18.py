@@ -1,3 +1,5 @@
+# https://adventofcode.com/2020/day/18
+
 from operator import add, mul
 from math import prod
 from collections import deque
